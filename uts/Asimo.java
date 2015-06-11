@@ -20,3 +20,4 @@ class Asimo extends robot{
 		System.out.println("Asimo diupgrade dengan jumlah: "+sensor);
 	}
 }
+public
